@@ -1,0 +1,15 @@
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\bin\Debug\net6.0\Exercicio_Desafio.exe
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\bin\Debug\net6.0\Exercicio_Desafio.deps.json
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\bin\Debug\net6.0\Exercicio_Desafio.runtimeconfig.json
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\bin\Debug\net6.0\Exercicio_Desafio.dll
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\bin\Debug\net6.0\Exercicio_Desafio.pdb
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.csproj.AssemblyReference.cache
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.AssemblyInfoInputs.cache
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.AssemblyInfo.cs
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.dll
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\refint\Exercicio_Desafio.dll
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.pdb
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\Exercicio_Desafio.genruntimeconfig.cache
+C:\Users\arthur.paula\Alura\Exercicio_Desafio\obj\Debug\net6.0\ref\Exercicio_Desafio.dll
