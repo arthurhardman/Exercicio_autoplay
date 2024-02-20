@@ -5,7 +5,7 @@ using Exercicio_Desafio.Mapeamentos;
 using (HttpClient httpClient = new HttpClient())
 {
     string jsonUrl = "https://raw.githubusercontent.com/arthurhardman/PetHouseAPI/master/Boletim";
-    string githubToken = "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";
+    string githubToken = "x";
     httpClient.DefaultRequestHeaders.Add("Authorization", $"token {githubToken}");
 
     try
